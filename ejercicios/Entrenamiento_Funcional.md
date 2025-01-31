@@ -12,3 +12,9 @@ El entrenamiento funcional consiste en ejercicios que imitan los movimientos cot
 1. Comienza con un calentamiento dinámico de 5-10 minutos (puedes incluir saltos, movimientos de cadera, flexiones, etc.).
 2. Realiza ejercicios que impliquen múltiples grupos musculares (como sentadillas, flexiones, burpees, lunges) durante 30-40 minutos.
 3. Termina con un enfriamiento y estiramientos enfocados en la relajación muscular y la movilidad.
+
+
+## Consejos
+- Asegúrate de mantener una postura correcta para evitar lesiones.
+- Varía los ejercicios para trabajar todos los músculos de manera equilibrada.
+- Escoge un ritmo que te desafíe, pero que puedas mantener durante toda la sesión.
